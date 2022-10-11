@@ -18,7 +18,7 @@
 
 **(1)PERT/CPM圖**
 ---
-[PERT/CPM & 關鍵路徑](https://hackmd.io/@yZCXZfgkR6KLKmm3MN-Stg/PERT)
+[PERT/CPM](https://hackmd.io/@el3TQc_2ScCsyXBi0HyyUQ/H1TWre7Qj)
 
 ![![來源]([https://hackmd.io/fKtHwO3BTU-joUJNl6rKsw?view](https://hackmd.io/@el3TQc_2ScCsyXBi0HyyUQ/H1TWre7Qj
 ))](https://user-images.githubusercontent.com/113969755/195119825-c6a9474d-c939-4898-8356-30e8592600c9.png)
