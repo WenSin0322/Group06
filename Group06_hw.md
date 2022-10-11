@@ -8,7 +8,7 @@
 
 
 |Group06|Members|Works|
-|:----:|:----:|:-----|
+|:----:|:----:|:-----:|
 |組長|C109118242洪偉錦|網站架設|
 |組員|C109118207沈文鑫|硬體開發|
 |組員|C109118241羅子謙|訓練模型開發|
@@ -32,34 +32,34 @@ gantt
     
 
     section 1.研擬計畫
-    1       :a1,2022-10-11, 1d
+    4       :a1,2022-10-11, 4d
    
     section 2.任務分配
-    4       :a2, after a1  , 4d
+    2       :a2, after a1  , 2d
     
-    section 3.取得硬體
-    17      :a3, after a1 , 17d
+    section 3.可行性認證
+    10      :a3, after a1 , 10d
     
     section 4.程式開發
-    70      :a4, after a2  , 70d
+    25      :a4, after a2  , 25d
     
-    section 5.安裝硬體
-    10      :a5, after a3  , 10d
+    section 5.硬體開發
+    5      :a5, after a3  , 5d
     
     section 6.程式測試
-    30      :a6, after a4  , 30d
+    12      :a6, after a5  , 12d
     
     section 7.撰寫使用手冊
-    25      :a7, after a5  , 25d
+    8      :a7, after a8  , 8d
     
     section 8.轉換檔案
-    20      :a8, after a5  , 20d
+    2      :a8, after a4  , 2d
     
     section 9.系統測試
-    25      :a9, after a6  , 25d
+    15      :a9, after a8  , 15d
     
     section 10.使用者訓練
-    20      :a10, after a7  , 20d
+    20      :a10, after a8  , 20d
     
     section 11.使用者測試
-    25      :a11, after a9  , 25d
+    25      :a11, after a7  , 25d
