@@ -18,7 +18,7 @@
 
 **(1)PERT/CPM圖**
 ---
-[PERT/CPM & 關鍵路徑]()
+[PERT/CPM & 關鍵路徑](https://hackmd.io/@yZCXZfgkR6KLKmm3MN-Stg/PERT)
 
 
 
