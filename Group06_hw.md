@@ -1,7 +1,14 @@
+> 組長:
+>> C1091182XX XXX
+> 組員:
+>> C109118242 洪偉錦 
+
+
+
 **(1)PERT/CPM圖**
 ---
-[PERT/CPM & 關鍵路徑](https://hackmd.io/@yZCXZfgkR6KLKmm3MN-Stg/PERT)
-![NKUST](PERT_CPM.png "")
+[PERT/CPM & 關鍵路徑]()
+
 
 
 
